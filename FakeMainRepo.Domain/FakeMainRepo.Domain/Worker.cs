@@ -10,5 +10,10 @@ namespace FakeMainRepo.Domain
 		{
 
 		}
+
+		public void DoSomethingElse()
+		{
+
+		}
 	}
 }
